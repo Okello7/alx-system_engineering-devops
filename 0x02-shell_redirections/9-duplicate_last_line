@@ -1,2 +1,2 @@
 #!/bin/bash
-tile -1 iacta >> iacta
+tile -n 1 iacta >> iacta
